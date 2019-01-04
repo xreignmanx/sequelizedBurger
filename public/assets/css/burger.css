@@ -1,0 +1,29 @@
+h2 {
+  font-family: sans-serif;
+  background-color: rgb(10, 184, 228);
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  font-family: sans-serif;
+  background: #3d2a11;
+}
+
+.label {
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  font-family: sans-serif;
+  background: rgb(97, 67, 2);
+}
+
+.form-group {
+  margin-bottom: 5px;
+  font-family: sans-serif;
+}

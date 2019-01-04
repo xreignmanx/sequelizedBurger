@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xreignmanx/burger.git"
+  },
+  "keywords": [
+    "burgers"
+  ],
+  "author": "RB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xreignmanx/burger/issues"
+  },
+  "homepage": "https://github.com/xreignmanx/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
